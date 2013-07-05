@@ -12,23 +12,26 @@ como indice y cada item lo desarrollamos segun sea necesario. // digo no? aza
 Escribir sobre los tres temas principales (los que empiezan con doble #) usando
 los temas que se explican abajo
 
-# Bases de acción política
+Bases de acción política
+========================
 
 Sociedad Libre
 --------------
 
 Los piratas consideramos que para construir una sociedad libre necesitamos
 promover libertades colectivas básicas que tienen que ver con el acceso al
-conocimiento, sea desde las redes, los centros culturales siempre al borde de
-la desaparición y el desalojo, del compartir fraternalmente, pero también por
-la capacidad de decidir y actuar colectivamente sobre nuestras vidas y
-bienestar.
+conocimiento, sea desde las redes organizacionales o informáticas, los centros
+culturales siempre al borde de la desaparición y el desalojo, del compartir
+fraternalmente, pero también por la capacidad de decidir y actuar
+colectivamente sobre nuestras vidas y bienestar.
 
 ### La soberanía
 
 Soberanía Alimentaria; que la decisión sobre como se producen nuestros
 alimentos y que alimentos se producen sea potestad del pueblo y en
 beneficio de este, no para la especulacion y acumulación de riqueza.
+
+No al patentamiento de la vida
 
 Soberanía biomática; que sea el pueblo el que decida el desmonte o el desvo de
 un río, o sea de los cambios en su medio ambiente, protegiendo la biosfera de
@@ -37,8 +40,6 @@ las decisiones antojadizas y egoistas.
 Soberanía territorial; que la tierra sea de todos acceso democrático de la
 tierra, no a los latifundios, minifundios y concentracción de la tierra, si a
 la propiedad comunal y a las comunidades experimentales o alternativas.
-
-La Ecología Mental;
 
 Soberanía industrial; que la industria este administrada por los obreros
 autodeterminados que en relación de igualdad trabajan por el bien común.
@@ -53,9 +54,6 @@ innecesarios, nocivos y efimeros.
 
 Soberanía habitacional; acceso general a la vivienda libre de la especulacion
 financiera e inmobiliaria, sin prestamos ni alquileres esclavizantes.
-
-
-La Ecología del Saber.
 
 Soberanía Educacional; que el acceso a la formación y autoformación sea
 democrática.
@@ -75,16 +73,9 @@ No al abordaje represivo de los conflictos sociales. Solucion pacifica
 
 transparencia del estado
 
-Educación pública y educación popular / autoformación / hackuelas (piedra libre
-galleguindio)
-
 Medios de comunicación y redes informáticas como espacios publicos
 
-Acceso a la Educación
-
-Educación integral.
-
-Educación publica, popular y autoformación.
+Educación integral,  publica, popular y autoformación.
 
 Autodeterminación de los estudiantes.
 
@@ -92,7 +83,10 @@ Bajar los subsidios a la educacion privada para recuperar la educacion publica
 Fomentar la creacion recuperacion y armado de nuevos establecimientos publicos
 de calidad para poder bajar y/oeliminar los subsidios a colegios privados.
 
-Salud publica, educación y prevención
+Eliminación progresiva de los subsidios a los servicios publicos en manos
+privadas y recuperacion
+
+Salud publica, educación y prevención, seguridad y desarrollo social
 
 ### Lo Privado
 
@@ -160,8 +154,6 @@ reducir la cantidad de años, por ejemplo
 Cultura libre / Acceso a la información  <-- sin quedarse en lo digital
 
 No al desalojo de espacios culturales
-
-No al patentamiento de la vida
 
 No a la privatizacion de la cultura ancestral y popular
 
@@ -328,8 +320,6 @@ Protección y recuperación del medio ambiente.
 Uso sostenible y protección de los bienes comunes.
 
 Preservación de la biodiversidad.
-
-No al patentamiento de la vida.
 
 Autonomía.
 
