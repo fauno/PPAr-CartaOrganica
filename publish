@@ -1,5 +1,5 @@
 #!/bin/bash
-FORMATS=(html5 pdf epub mediawiki)
+FORMATS=(html5 epub mediawiki)
 
 for format in ${FORMATS[@]}; do
 # Si no está en before lo agregamos
@@ -8,13 +8,14 @@ for format in ${FORMATS[@]}; do
   >> before.html
 
   pandoc --css=http://getbootstrap.com/dist/css/bootstrap.css \
+        --standalone \
+        --smart \
         --include-before=before.html \
         --include-after=after.html \
-        --latex-engine=xelatex \
         --table-of-contents \
         -t ${format} \
         -o CartaOrganica.${format} \
         CartaOrganica.markdown
 done
 
-mv CartaOrganica.html{5,}
+ln -s CartaOrganica.html{5,}
