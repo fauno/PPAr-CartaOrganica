@@ -165,7 +165,7 @@ derecho a proponer y llevar a cabo actividades con el fin de sostener,
 impulsar, difundir y extender los principios piratas en todos los espacios.
 
 Para ello, toda propuesta deberá informarse debida y detalladamente a la
-Asamblea Permanente y deberá contar con el Consenso de éste.
+Asamblea Permanente y deberá contar con el Consenso de ésta.
 
 Si no hubiera Consenso, la propuesta pasará inmediatamente a un período de
 discusión y reformulación definido por reglamento, al cabo del cual pasará a la
@@ -218,12 +218,31 @@ Partido Pirata.
 
 Cualquier grupo que contenga al menos tres (3) Piratas Afiliados podrá pedir su
 reconocimiento como Barco Pirata mediante Propuesta a la Asamblea Permanente.
+La Propuesta debe incluir en forma clara y concisa los puntos que definen su
+Dominio.
+
+El Dominio de un Barco Pirata determina cuáles son sus competencias y sólo puede
+ser modificado mediante Propuesta a la Asamblea Permanente.
 
 Los Barcos Piratas se autodeterminan, pudiendo realizar actividades y sacar
 comunicados en su propio nombre.
 
+Los Barcos Piratas pueden constituir un Cofre para financiar sus actividades.
+La administración del Cofre debe respetar lo establecido por la Administración
+de Fondos y el Órgano Fiducidario del Partido.
+
 Los Barcos Piratas deberán elevar Actas sobre sus actividades a la Asamblea
 Permanente.
+
+Los Barcos Piratas deben respetar los Mecanismos de Democracia Directa
+establecidos por esta Carta.
+
+Los Barcos Piratas pueden pedir financiamiento al Tesoro a través de los
+mecanismos establecidos por esta Carta, siempre y cuando las actividades se
+encuentren dentro de su Dominio.
+
+Los Barcos Piratas pueden contribuir con su Cofre al Tesoro según Propuesta de
+la Asamblea General.
 
 El Partido Pirata deberá proveer la infraestructura necesaria para el
 funcionamiento de los Barcos.
