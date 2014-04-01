@@ -184,6 +184,12 @@ guarden un parecido con alguna anterior.
 Será responsabilidad de los piratas informar detalladamente y por escrito los
 resultados y análisis sobre la implementación de la propuesta.
 
+Se dará como concluída una Propuesta cuando los responsables emitan un
+comunicado con la descripción del proceso y los resultados obtenidos.
+
+El Partido debe proveer la infraestructura para documentar el proceso y
+desarrollo de una Propuesta.
+
 El reglamento y las propuestas no podrán contradecir el espíritu de esta Carta
 Orgánica, ni la Declaración de Principios Fundacionales del Partido, antes bien
 profundizarlos.
