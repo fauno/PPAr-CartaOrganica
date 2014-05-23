@@ -214,6 +214,8 @@ Habrá Consenso sobre una propuesta cuando esta no cuente con la desaprobación
 de un porcentaje definido por reglamento no superior al 10% de los piratas
 afiliados participantes, es decir exista Disenso Relevante.
 
+El Proceso de Consenso será definido por Reglamento.
+
 Será obligación de la Asamblea Permanente formar a los Piratas Afiliados
 en el correcto Proceso de Consenso.
 
