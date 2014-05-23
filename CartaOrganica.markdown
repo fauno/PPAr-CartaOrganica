@@ -204,7 +204,8 @@ por Acuerdo.
 
 El Proceso de Consenso es una actividad colectiva de toma de decisiones
 donde todos los Piratas Afiliados sintetizan ideas, proyectos y
-actividades de forma de llevar adelante los Principios Piratas.
+actividades de forma de llevar adelante actividades afines a los
+Principios Piratas.
 
 Los Piratas Afiliados se consideran participantes cuando se involucran
 activamente en el Proceso de Consenso.
