@@ -1,10 +1,21 @@
 #!/bin/bash
+FORMATS=(html5 epub mediawiki)
 
-pandoc --css=http://twitter.github.io/bootstrap/assets/css/bootstrap.css \
-       --css=http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css \
-       --include-before=before.html \
-       --include-after=after.html \
-       --table-of-contents \
-       -t html5 \
-       -o CartaOrganica.html \
-       CartaOrganica.markdown
+for format in ${FORMATS[@]}; do
+# Si no está en before lo agregamos
+  grep -q $format before.html || \
+  echo "<a href=\"CartaOrganica.${format}\">${format}</a>" \
+  >> before.html
+
+  pandoc --css=http://getbootstrap.com/dist/css/bootstrap.css \
+        --standalone \
+        --smart \
+        --include-before=before.html \
+        --include-after=after.html \
+        --table-of-contents \
+        -t ${format} \
+        -o CartaOrganica.${format} \
+        CartaOrganica.markdown
+done
+
+ln -s CartaOrganica.html{5,}
