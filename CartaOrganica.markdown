@@ -190,6 +190,12 @@ guarden un parecido con alguna anterior.
 Será responsabilidad de los piratas informar detalladamente y por escrito los
 resultados y análisis sobre la implementación de la propuesta.
 
+Se dará como concluída una Propuesta cuando los responsables emitan un
+comunicado con la descripción del proceso y los resultados obtenidos.
+
+El Partido debe proveer la infraestructura para documentar el proceso y
+desarrollo de una Propuesta.
+
 El reglamento y las propuestas no podrán contradecir el espíritu de esta Carta
 Orgánica, ni la Declaración de Principios Fundacionales del Partido, antes bien
 profundizarlos.
@@ -237,12 +243,31 @@ Partido Pirata.
 
 Cualquier grupo que contenga al menos tres (3) Piratas Afiliados podrá pedir su
 reconocimiento como Barco Pirata mediante Propuesta a la Asamblea Permanente.
+La Propuesta debe incluir en forma clara y concisa los puntos que definen su
+Dominio.
+
+El Dominio de un Barco Pirata determina cuáles son sus competencias y sólo puede
+ser modificado mediante Propuesta a la Asamblea Permanente.
 
 Los Barcos Piratas se autodeterminan, pudiendo realizar actividades y sacar
 comunicados en su propio nombre.
 
+Los Barcos Piratas pueden constituir un Cofre para financiar sus actividades.
+La administración del Cofre debe respetar lo establecido por la Administración
+de Fondos y el Órgano Fiducidario del Partido.
+
 Los Barcos Piratas deberán elevar Actas sobre sus actividades a la Asamblea
 Permanente.
+
+Los Barcos Piratas deben respetar los Mecanismos de Democracia Directa
+establecidos por esta Carta.
+
+Los Barcos Piratas pueden pedir financiamiento al Tesoro a través de los
+mecanismos establecidos por esta Carta, siempre y cuando las actividades se
+encuentren dentro de su Dominio.
+
+Los Barcos Piratas pueden contribuir con su Cofre al Tesoro según Propuesta de
+la Asamblea General.
 
 El Partido Pirata deberá proveer la infraestructura necesaria para el
 funcionamiento de los Barcos.
@@ -478,12 +503,12 @@ conocidos, siempre que no dé lugar a confusión y cuando sea vehículo de
 identificación inequívoca.
 
 
-Título VI – PATRIMONIO DEL PARTIDO
-----------------------------------
+Título VI – TESORO PIRATA
+-------------------------
 
 ### ARTÍCULO 23: COMPOSICIÓN PATRIMONIAL
 
-El Patrimonio del Partido estará compuesto por:
+El Tesoro Pirata estará compuesto por:
 
 * Los aportes y franquicias otorgados por el Fondo Partidario Permanente
   a cargo del Estado, que será percibido y administrado por las Asambleas;
@@ -505,7 +530,14 @@ El Patrimonio del Partido estará compuesto por:
   con los principios ideológicos y/o éticos del Partido.
 
 
-### ARTÍCULO 24: SOBRE LA ADMINISTRACIÓN DE LOS FONDOS
+### ARTÍCULO 24: SOBRE LA ADMINISTRACIÓN DEL TESORO
+
+El Tesoro es el órgano burocrático de la economía pirata. Es responsable de la
+administración del patrimonio del Partido Pirata. Se le delega el cumplimiento
+de lo establecido por la Ley de Financiamiento de Partidos Políticos (26.215).
+
+El Tesoro responde a todas las responsabilidades y limitaciones establecidas por
+el Art. 17 de esta Carta.
 
 Los Fondos del Partido serán depositados en una cuenta única del Banco de la
 Nación Argentina o de la Ciudad Autónoma de Buenos Aires, a nombre del Partido
@@ -525,7 +557,38 @@ incumplimiento sera punible.
 
 ### ARTÍCULO 25: SOBRE EL ÓRGANO FIDUCIARIO
 
-La Administración del Patrimonio estará a cargo de las Asambleas.
+Todas las actividades del Tesoro estarán regidas por los principios de
+Transparencia, Participación, Distribución y Orientación a la Acción.
+
+#### TRANSPARENCIA
+
+Todos los movimientos deben ser publicados y anunciados de forma inmediata.
+
+La Asamblea Permanente podrá solicitarle al Tesoro cualquier clase de
+información adicional que considere necesaria.
+
+#### PARTICIPACIÓN
+
+Las decisiones sobre la administración del Tesoro serán tomadas por la Asamblea.
+
+#### DISTRIBUCIÓN
+
+Cualquier movimiento del Tesoro es aprobado y ejecutado por Propuesta.
+
+Cada Pirata Afiliado percibirá el reintegro de los gastos generados por y
+durante la realización de una Propuesta contra presentación de documentos
+fiscales a cuenta del Partido que avalen dicho reintegro.
+
+Cada Pirata Afiliado podrá solicitar un adelanto de presupuesto durante y para
+la realización de una Propuesta debiendo presentar los documentos fiscales a
+cuenta del Partido que avalen dicho adelanto, así como la rendición y devolución
+del excedente del adelanto.
+
+#### ORIENTACIÓN A LA ACCIÓN
+
+El Tesoro privilegia la realización de actividades sobre la preservación del patrimonio.
+
+El presupuesto para una Propuesta podrá variar durante la realización de la misma.
 
 La Administración de los Fondos será llevada a cargo por el Órgano Fiduciario
 del Partido Pirata, cuyos miembros serán elegidos en Asamblea, siendo
