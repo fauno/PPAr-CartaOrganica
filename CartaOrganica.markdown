@@ -164,8 +164,11 @@ y autogestivo en las actividades regulares del Partido, todo Pirata tiene
 derecho a proponer y llevar a cabo actividades con el fin de sostener,
 impulsar, difundir y extender los principios piratas en todos los espacios.
 
-Para ello, toda propuesta deberá informarse debida y detalladamente a la
-Asamblea Permanente y deberá contar con el Consenso de éste.
+Para ello, toda Propuesta deberá informarse debida y detalladamente a la
+Asamblea Permanente y deberá contar con el Consenso de ésta.
+
+Al ser un proceso participativo referente a la vida del Partido, el
+Consenso puede variar durante la vida de la Propuesta.
 
 Si no hubiera Consenso, la propuesta pasará inmediatamente a un período de
 discusión y reformulación definido por reglamento, al cabo del cual pasará a la
@@ -174,8 +177,11 @@ orden del día para la siguiente Asamblea General.
 Si hubiera aprobación, tanto por Consenso como por Acuerdo, quien inicialmente
 hiciere la propuesta será responsable ante la asamblea pertinente, sea local,
 general o de barco y deberá trabajar con otros piratas para llevarla a cabo en
-los plazos pautados. Conformará para ello un equipo de trabajo involucrando a
-todos los piratas que deseen participar.
+los plazos pautados.
+
+Conformará para ello un equipo de trabajo involucrando a todos los
+piratas que deseen participar, siguiendo los Mecanismos de Democracia
+Directa delineados por este Documento.
 
 En caso de no llegarse a Acuerdo, la propuesta será guardada en un archivo
 histórico para futuras consultas y referencias en caso de que nuevas propuestas
@@ -191,14 +197,27 @@ profundizarlos.
 
 ### ARTÍCULO 9: CONSENSO O DISENSO RELEVANTE
 
-Todas las decisiones del Partido, en cualquiera de sus instancias de decisión,
-se harán por Consenso. En caso existir Disenso Relevante en proporción definida
-por reglamento, se tomarán decisiones por Acuerdo.
+Todas las decisiones del Partido, en cualquiera de sus instancias de
+decisión, se harán por Proceso de Consenso. En caso existir Disenso
+Relevante en proporción definida por reglamento, se tomarán decisiones
+por Acuerdo.
+
+El Proceso de Consenso es una actividad colectiva de toma de decisiones
+donde todos los Piratas Afiliados sintetizan ideas, proyectos y
+actividades de forma de llevar adelante actividades afines a los
+Principios Piratas.
+
+Los Piratas Afiliados se consideran participantes cuando se involucran
+activamente en el Proceso de Consenso.
 
 Habrá Consenso sobre una propuesta cuando esta no cuente con la desaprobación
 de un porcentaje definido por reglamento no superior al 10% de los piratas
 afiliados participantes, es decir exista Disenso Relevante.
 
+El Proceso de Consenso será definido por Reglamento.
+
+Será obligación de la Asamblea Permanente formar a los Piratas Afiliados
+en el correcto Proceso de Consenso.
 
 
 ### ARTÍCULO 10: ACUERDO
